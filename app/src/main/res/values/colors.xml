@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02D7A1</color>
+    <color name="colorPrimaryDark">#02D7A1</color>
+    <color name="colorAccent">#8F9B99</color>
+    <color name="baltic_sea">#3A3F43</color>
+    <color name="light_grey">#D7D7D7</color>
+    <color name="white">#FDFDFD</color>
+    <color name="riptide">#94E7D5</color>
+</resources>
